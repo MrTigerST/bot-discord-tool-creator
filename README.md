@@ -22,3 +22,7 @@ ISTRUZIONI PER AVERE LA LICENCE:
 Perchè non hai aggiornato Windows alla sua ultima versione. Aggiornalo e poi vedi se ti dà ancora l'errore.
 
 Se ti dà ancora l'errore, contatta su Discord Scary Tiger in DM.
+
+## Perchè mi dice che è un virus?
+
+Il programma non è un virus. Non abbiamo intenzione di attacchi hacker o altri attacchi informatici. Il nostro scopo è far aiutare le persone con questo software!
