@@ -9,7 +9,8 @@ Questo programma crea dei source dei bot discord in qui voi poi lo personalizzat
 # Q&A
 
 ## Perchè mi dice di avere una licence?
-Perchè il programma non è stato permesso da Scary Tiger. 
+Perchè hai preso il programma senza il permesso di Scary Tiger
+
 ISTRUZIONI PER AVERE LA LICENCE:
 
 - Entra nel [Server Discord di Scary Tiger](https://discord.gg/GKP49SR)
@@ -19,4 +20,5 @@ ISTRUZIONI PER AVERE LA LICENCE:
 ## Perchè non mi apre il file?
 
 Perchè non hai aggiornato Windows alla sua ultima versione. Aggiornalo e poi vedi se ti dà ancora l'errore.
+
 Se ti dà ancora l'errore, contatta su Discord Scary Tiger in DM.
