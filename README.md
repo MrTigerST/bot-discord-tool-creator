@@ -1,4 +1,4 @@
-# Bot Discord source Creator By Scay Tiger
+# Bot Discord tool Creator
 > Programma creato da **Scary Tiger**
 
 # Cosa fa questo programma
