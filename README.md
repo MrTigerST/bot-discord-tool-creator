@@ -3,7 +3,7 @@
 
 # Cosa fa questo programma
 
-Questo programma crea dei source dei bot discord in qui voi poi lo personalizzate
+Questo programma crea dei source dei bot discord in cui voi poi lo personalizzate
 
 
 # Q&A
