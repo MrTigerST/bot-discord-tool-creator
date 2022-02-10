@@ -14,7 +14,7 @@ Perchè hai preso il programma senza il permesso di Scary Tiger
 ISTRUZIONI PER AVERE LA LICENCE:
 
 - Entra nel [Server Discord di Scary Tiger](https://discord.gg/GKP49SR)
-- Chied a Scary Tiger (sempre su discord) in privato di darti la licence
+- Chiedi a Scary Tiger (sempre su discord) in privato di darti la licence
 - Attendi una risposta.
 
 ## Perchè non mi apre il file?
